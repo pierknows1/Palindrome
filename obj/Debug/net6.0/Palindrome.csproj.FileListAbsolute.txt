@@ -1,0 +1,20 @@
+/Users/user/Desktop/Palindrome /palindrome/Palindrome/obj/Debug/net6.0/Palindrome.csproj.AssemblyReference.cache
+/Users/user/Desktop/Palindrome /palindrome/Palindrome/obj/Debug/net6.0/Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Desktop/Palindrome /palindrome/Palindrome/obj/Debug/net6.0/Palindrome.AssemblyInfoInputs.cache
+/Users/user/Desktop/Palindrome /palindrome/Palindrome/obj/Debug/net6.0/Palindrome.AssemblyInfo.cs
+/Users/user/Desktop/Palindrome /palindrome/Palindrome/obj/Debug/net6.0/Palindrome.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Palindrome/palindrome/Palindrome/bin/Debug/net6.0/Palindrome
+/Users/user/Desktop/Palindrome/palindrome/Palindrome/bin/Debug/net6.0/Palindrome.deps.json
+/Users/user/Desktop/Palindrome/palindrome/Palindrome/bin/Debug/net6.0/Palindrome.runtimeconfig.json
+/Users/user/Desktop/Palindrome/palindrome/Palindrome/bin/Debug/net6.0/Palindrome.dll
+/Users/user/Desktop/Palindrome/palindrome/Palindrome/bin/Debug/net6.0/Palindrome.pdb
+/Users/user/Desktop/Palindrome/palindrome/Palindrome/obj/Debug/net6.0/Palindrome.csproj.AssemblyReference.cache
+/Users/user/Desktop/Palindrome/palindrome/Palindrome/obj/Debug/net6.0/Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Desktop/Palindrome/palindrome/Palindrome/obj/Debug/net6.0/Palindrome.AssemblyInfoInputs.cache
+/Users/user/Desktop/Palindrome/palindrome/Palindrome/obj/Debug/net6.0/Palindrome.AssemblyInfo.cs
+/Users/user/Desktop/Palindrome/palindrome/Palindrome/obj/Debug/net6.0/Palindrome.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Palindrome/palindrome/Palindrome/obj/Debug/net6.0/Palindrome.dll
+/Users/user/Desktop/Palindrome/palindrome/Palindrome/obj/Debug/net6.0/refint/Palindrome.dll
+/Users/user/Desktop/Palindrome/palindrome/Palindrome/obj/Debug/net6.0/Palindrome.pdb
+/Users/user/Desktop/Palindrome/palindrome/Palindrome/obj/Debug/net6.0/Palindrome.genruntimeconfig.cache
+/Users/user/Desktop/Palindrome/palindrome/Palindrome/obj/Debug/net6.0/ref/Palindrome.dll
